@@ -57,3 +57,4 @@ Deploy as a web app with Flask/FastAPI
 Explore deep learning models for better accuracy
 
 Integrate AI for smarter spam detection
+<img width="426" height="421" alt="Screenshot 2025-09-15 022119" src="https://github.com/user-attachments/assets/61cbcf50-0181-44a0-b1d4-55edc6c5519b" />
